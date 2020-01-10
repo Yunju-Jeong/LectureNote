@@ -1,0 +1,5 @@
+A computer is an electronic device used to process data. A computer can convert data into information that is useful to people. A complete computer system includes four distinct parts:
+* Hardware
+* Software
+* Data
+* User

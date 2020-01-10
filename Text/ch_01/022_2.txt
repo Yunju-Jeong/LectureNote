@@ -1,0 +1,1 @@
+Software-also called programs-consists of organized sets of instructions for controlling the computer. ① Some programs exist for the computer’s use, to help it manage its own tasks and devices. ② Other programs exist for the user, and enable the computer to perform tasks for you, such as creating documents.

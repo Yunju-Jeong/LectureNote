@@ -1,0 +1,2 @@
+Data consists of raw facts, which the computer can manipulate and process into information that is useful to people. Computerized data is digital, meaning that it has been reduced to digits. The computer stores and reads all data as numbers. Although computers use data in digital form, they convert data into forms that people can understand.
+
