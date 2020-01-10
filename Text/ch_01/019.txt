@@ -1,0 +1,3 @@
+A device that accepts data, processes the data in accordance with a stored program, generates results, and usually consists of input, output, storage, arithmetic, logic, and control units. 
+
+A functional unit that can perform substantial computation, including numerous arithmetic operations or logic operations, without human intervention during a run. 
